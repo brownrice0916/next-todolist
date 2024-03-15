@@ -1,0 +1,32 @@
+{
+  "todos": [
+    {
+      "id": "04d6",
+      "title": "123",
+      "content": "1234",
+      "isDone": false
+    },
+    {
+      "id": "b6b8",
+      "title": "12312",
+      "content": "3123",
+      "isDone": false
+    },
+    {
+      "id": "c734",
+      "title": "dsfdsf",
+      "content": "sdfsdf",
+      "isDone": false
+    }
+  ],
+  "companyInfo": {
+    "name": "쌀쌀",
+    "address": "seoul",
+    "phone": "01012345678"
+  },
+  "todoData": {
+    "totalTodos": 0,
+    "completeCount": 0,
+    "incompleteCount": 0
+  }
+}
